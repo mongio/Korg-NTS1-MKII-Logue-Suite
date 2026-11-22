@@ -1,0 +1,10 @@
+PROJECT := seagull
+PROJECT_TYPE := delfx
+UCSRC = header.c
+UCXXSRC = unit.cc
+UASMSRC =
+UASMXSRC =
+UINCDIR =
+ULIBDIR =
+ULIBS = -lm
+UDEFS =
