@@ -1,0 +1,10 @@
+PROJECT := ghost_radio_v045a
+PROJECT_TYPE := osc
+UCSRC = header.c
+UCXXSRC = unit.cc
+UASMSRC =
+UASMXSRC =
+UINCDIR =
+ULIBDIR =
+ULIBS = -lm
+UDEFS =

@@ -1,0 +1,10 @@
+PROJECT := orbital14
+PROJECT_TYPE := modfx
+UCSRC = header.c
+UCXXSRC = unit.cc
+UASMSRC =
+UASMXSRC =
+UINCDIR =
+ULIBDIR =
+ULIBS = -lm
+UDEFS =
